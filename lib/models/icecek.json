@@ -1,0 +1,60 @@
+{
+    "urunler":[{
+			"kategori":"Sıcak",
+			"isim":"Çay",
+			"aciklama":"Çay",
+			"fiyat":10,
+			"gorsel":"assets/images/cay.jpg"
+			
+	},
+	{
+		"kategori":"Sıcak",
+		"isim":"Americano",
+		"aciklama":"Americano",
+		"fiyat":10,
+		"gorsel":"assets/images/americano.jpg"
+		
+},
+{
+	"kategori":"Sıcak",
+	"isim":"Filtre Kahve",
+	"aciklama":"Filtre Kahve",
+	"fiyat":10,
+	"gorsel":"assets/images/filtre.jpg"
+	
+},
+{
+	"kategori":"Sıcak",
+	"isim":"Salep",
+	"aciklama":"Salep",
+	"fiyat":10,
+	"gorsel":"assets/images/sale.jpg"
+	
+},
+{
+	"kategori":"Sıcak",
+	"isim":"Sıcak çikolata",
+	"aciklama":"Sıcak çikolata",
+	"fiyat":10,
+	"gorsel":"assets/images/sicak_cikolata.jpg"
+	
+},
+{
+	"kategori":"Sıcak",
+	"isim":"Süt",
+	"aciklama":"Süt",
+	"fiyat":10,
+	"gorsel":"assets/images/sut.jpg"
+	
+},
+{
+	"kategori":"Sıcak",
+	"isim":"Türk Kahvesi",
+	"aciklama":"Türk Kahvesi",
+	"fiyat":10,
+	"gorsel":"assets/images/turk_kahvesi.jpg"
+	
+}]
+}
+    
+    

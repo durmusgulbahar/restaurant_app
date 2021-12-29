@@ -1,0 +1,4 @@
+#Sat Dec 25 21:48:44 TRT 2021
+base.0=/home/durmus/Desktop/peterspan/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
